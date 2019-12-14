@@ -7,4 +7,4 @@ username: admin password: admin
 username: johndoe password: johndoe
 username: janedoe password: janedoe
 
-After logging, in you can create your own user.
+After logging with any of the default users above, in you can create your own user.
